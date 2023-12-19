@@ -1,0 +1,15 @@
+.stage1form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+dialog {
+  max-width: 80%;
+}
+.stage3 {
+  height: 50vh;
+  overflow: auto;
+}
+table {
+  border-spacing: 1rem;
+}
